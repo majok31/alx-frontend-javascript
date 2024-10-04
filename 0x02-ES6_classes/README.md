@@ -1,0 +1,1 @@
+Classes are often refered to as "special functions". Similar to how function expressions and function declarations, are defined; a class can be defined in two ways: a class expression or a class declaration.
